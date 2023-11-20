@@ -16,62 +16,32 @@ Purchased using the website's API. There is a separafile file called 'weatherapi
 # Description of Columns in Final dataset.
 
 Date: The date of the entry.
-
 Day: The day of the week.
-
 Month: The month of the year.
-
 Year: The year of the entry.
-
 Time: The time of the entry.
-
 Hour: The hour of the entry.
-
 total_light(kW): Total energy consumption for lighting (in kilowatts).
-
 total_ac(kW): Total energy consumption for air conditioning (in kilowatts).
-
 total_plug(kW): Total energy consumption for plugged devices (in kilowatts).
-
 avg_temp(degC): Average temperature in degrees Celsius.
-
 avg_rel_humidity(%): Average relative humidity as a percentage.
-
 datetime: Combined date and time information.
-
 temp: Temperature.
-
 feelslike: "Feels like" temperature.
-
 dew: Dew point temperature.
-
 humidity: Humidity percentage.
-
 precip: Precipitation.
-
 precipprob: Probability of precipitation.
-
 preciptype: Type of precipitation.
-
 windspeed: Wind speed.
-
 winddir: Wind direction.
-
 sealevelpressure: Sea level pressure.
-
 cloudcover: Cloud cover percentage.
-
 visibility: Visibility.
-
 solarradiation: Solar radiation.
-
 solarenergy: Solar energy.
-
 uvindex: UV index.
-
 conditions: Weather conditions.
-
 icon: Weather icon.
-
-
 wind_direction: Wind direction.
